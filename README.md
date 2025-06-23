@@ -13,7 +13,7 @@ Objetivo:
 👨‍💻 Apoiar iniciantes no desenvolvimento de apps mobile com Flutter
 
 
-<img src="https://github.com/user-attachments/assets/41825edb-84e7-4b1d-a8d5-74ce807d0f3a" width="350"/>
+<img src="https://github.com/user-attachments/assets/15e0c21f-a0c2-41d4-ba26-771b025d41e8" width="350"/>
 
 <img src="https://github.com/user-attachments/assets/e8d5aab9-f98e-4f68-af5b-a5e206cd9910" width="350"/>
 
